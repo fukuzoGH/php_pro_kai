@@ -1,0 +1,4 @@
+p.051
+ホスト       : localhost
+データベース : shop
+テーブル     : mst_staff
